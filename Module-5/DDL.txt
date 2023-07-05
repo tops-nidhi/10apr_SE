@@ -53,3 +53,6 @@ DDL:- Data Definition Language
 
 15.Change Data Type:-
 ->ALTER TABLE table_name MODIFY COLUMN old_column_name data_type (size);
+
+16.Update data:-
+->UPDATE `table_name` SET `column_name` = 'value' WHERE condition;
